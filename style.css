@@ -1,0 +1,76 @@
+.reestar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: fit-content;
+}
+
+.reestar:hover {
+    color: pink;
+}
+
+.container {
+    background-color: bisque;
+    text-align: center;
+
+}
+
+.section-one__img1,
+.section-two__img2,
+.section-three__img3,
+.section-four__img4 {
+    width: 220px;
+
+}
+
+.section-one__img1,
+.section-two__img2 {
+    height: 330px;
+}
+
+.section-one,
+.section-two,
+.section-three,
+.section-four {
+    display: inline-block;
+    border: solid black;
+    text-align: center;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.box-1__body:hover{
+    color: red;
+}
+
+.box-1 {
+    display: inline-block;
+}
+.box-1__title:hover{
+    color: goldenrod;
+}
+.box-1__send {
+    background-color: #333;
+    color: white;
+    border: none;
+  text-align: center;
+    cursor: pointer;
+    width: 400px;
+    
+}
+.box-1__send:hover{
+    background-color:cornflowerblue;
+    color: black;
+}
+input:hover{
+ border-radius: 10px;
+}
+
